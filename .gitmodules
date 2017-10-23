@@ -1,0 +1,9 @@
+[submodule "kicad_lib_tmk"]
+	path = kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "MX_Alps_Hybrid.pretty"]
+	path = MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty.git
+[submodule "cartel_kicad_library.pretty"]
+	path = cartel_kicad_library.pretty
+	url = https://github.com/CartelLtd/cartel_kicad_library.pretty.git
