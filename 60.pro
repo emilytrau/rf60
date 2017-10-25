@@ -1,4 +1,4 @@
-update=23/10/2017 3:18:38 PM
+update=23/10/2017 6:36:53 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=kicad_lib_tmk/keyboard_parts
+LibName31=cartel_kicad_library.pretty/cartel
