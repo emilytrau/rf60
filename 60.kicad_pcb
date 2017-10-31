@@ -3,7 +3,7 @@
   (general
     (links 503)
     (no_connects 0)
-    (area -13.816001 -12.292001 291.638451 160.628001)
+    (area 3.686549 35.5808 291.638451 137.3)
     (thickness 1.6)
     (drawings 38)
     (tracks 1126)
@@ -8783,7 +8783,7 @@
   (gr_line (start 207.264 91.948) (end 204.724 94.488) (layer F.SilkS) (width 0.381))
   (gr_line (start 207.264 94.488) (end 204.724 91.948) (layer F.SilkS) (width 0.381))
   (gr_text amtra5 (at 194.818 93.218) (layer F.SilkS)
-    (effects (font (size 3.81 3.048) (thickness 0.3556)))
+    (effects (font (size 3.81 3.048) (thickness 0.4064)))
   )
   (gr_text "wireless keyboard\n" (at 72.644 78.486) (layer F.SilkS)
     (effects (font (size 1.778 1.27) (thickness 0.254)))
