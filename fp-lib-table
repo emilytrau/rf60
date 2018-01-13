@@ -3,4 +3,6 @@
   (lib (name MXAlps)(type KiCad)(uri "$(KIPRJMOD)/MX_Alps_Hybrid.pretty")(options "")(descr ""))
   (lib (name keyboard_parts)(type KiCad)(uri "$(KIPRJMOD)/keyboard_parts.pretty")(options "")(descr ""))
   (lib (name logo)(type KiCad)(uri "$(KIPRJMOD)/logo.pretty")(options "")(descr ""))
+  (lib (name lib)(type KiCad)(uri "$(KIPRJMOD)/lib")(options "")(descr ""))
+  (lib (name Tag-Connect)(type Legacy)(uri "$(KIPRJMOD)/Tag-Connect.mod")(options "")(descr ""))
 )

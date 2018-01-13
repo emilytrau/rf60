@@ -1,4 +1,4 @@
-update=23/10/2017 6:36:53 PM
+update=13/01/2018 4:48:44 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=kicad_lib_tmk/keyboard_parts
 LibName31=cartel_kicad_library.pretty/cartel
+LibName32=Tag-Connect
