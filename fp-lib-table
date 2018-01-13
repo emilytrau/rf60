@@ -4,5 +4,5 @@
   (lib (name keyboard_parts)(type KiCad)(uri "$(KIPRJMOD)/keyboard_parts.pretty")(options "")(descr ""))
   (lib (name logo)(type KiCad)(uri "$(KIPRJMOD)/logo.pretty")(options "")(descr ""))
   (lib (name lib)(type KiCad)(uri "$(KIPRJMOD)/lib")(options "")(descr ""))
-  (lib (name Tag-Connect)(type Legacy)(uri "$(KIPRJMOD)/Tag-Connect.mod")(options "")(descr ""))
+  (lib (name Tag-Connect)(type KiCad)(uri "$(KIPRJMOD)/Tag-Connect.pretty")(options "")(descr ""))
 )
